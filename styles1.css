@@ -1,21 +1,21 @@
 h1 {
-  background-color: LightGray;
+  background-color: Purple;
   text-align: center;
   font-family: calibri;
 }
 
 h2 {
-  background-color: LightGray;
   text-align: center;
   font-family: calibri;
 }
 
 h4 {
-  background-color: LightGray;
+  background-color: Purple;
+  text-align: center;
   font-family: calibri;
 }
 
 p {
-  background-color: LightGray;
+  border: 2px solid Lavender;
   font-family: calibri;
 }
